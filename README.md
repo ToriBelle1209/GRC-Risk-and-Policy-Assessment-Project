@@ -1,2 +1,2 @@
-# Small Business GRC Risk and Policy Assessment Project
+# GRC Risk and Policy Assessment Project
 This project demonstrates a basic governance, risk, and compliance (GRC) assessment for a fictional financial services organization.  It uses a fictional financial services organization to demonstrate how an organization can identify and prioritize cybersecurity risks, assess their potential impact,  and develop policies and controls to reduce those risks.
