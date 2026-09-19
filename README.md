@@ -1,4 +1,4 @@
-# GRC Risk and Policy Assessment Portfolio
+# GRC Risk Assessment and Policy Portfolio
 
 ### **Overview** 
 
