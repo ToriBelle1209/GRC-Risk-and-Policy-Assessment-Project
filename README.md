@@ -1,10 +1,10 @@
 # GRC Risk and Policy Assessment Project
 
-## **Overview** 
+### **Overview** 
 
 This project demonstrates foundational Governance, Risk, and Compliance (GRC) concepts through a simulated cybersecurity risk assessment and policy development project. It  uses a fictional financial services organization to demonstrate how an organization can identify and prioritize cybersecurity risks, assess their potential impact, and develop policies and controls to reduce those risks.
 
-## **Organization** 
+### **Organization Profile** 
 
   Category → Information
   
@@ -22,7 +22,7 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
   
   Purpose  → Portfolio/educational project
 
-## **Project Objectives** 
+### **Project Objectives** 
 
   This project aims to demonstrate my foundational understanding of:
     Governance, Risk, and Compliance (GRC)
@@ -34,7 +34,7 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
     Access management
     Cybersecurity frameworks
 
-## **Project Structure** 
+### **Project Structure** 
 
 *Organization Profile* - Provides background information about the fictional organization, its technology environment, and the types of information it handles.
 
@@ -42,5 +42,7 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
 
 *Security Policy* - Develops a security policy designed to address an identified organizational risk.
 
-### **Disclaimer** - This is a fictional educational project. The organization (CFS), systems, risks, and scenarios described in this repository are not based on confidential information from any real organization. It is created for educational and portfolio purposes only.
+
+### Disclaimer
+This is a fictional educational project. The organization (CFS), systems, risks, and scenarios described in this repository are not based on confidential information from any real organization. It is created for educational and portfolio purposes only.
 
