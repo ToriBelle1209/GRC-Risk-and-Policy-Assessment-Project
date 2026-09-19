@@ -6,33 +6,35 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
 
 ### **Organization Profile** 
 
-  Category → Information
-  
-  Organization  → Caribbean Financial Services (CFS)
-  
-  Industry  → Financial Services
-  
-  Location  → Barbados
-  
-  Employees  → Approximately 50
-  
-  Customers  → Individuals and businesses
-  
-  Type  → Fictional
-  
-  Purpose  → Portfolio/educational project
+| Category | Information |
+| -------- | -------- |
+| Organization | Caribbean Financial Services (CFS) |
+| Industry | Financial Services |
+| Location | Caribbean Financial Services (CFS) |
+| Employees | Approximately 50 |
+| Customers | Individuals and businesses |
+| Type | Fictional |
+| Purpose | Portfolio/educational project |
 
 ### **Project Objectives** 
 
-  This project aims to demonstrate my foundational understanding of:
-    Governance, Risk, and Compliance (GRC)
-    Cybersecurity risk assessment
-    Risk identification and prioritization
-    Security policies
-    Security controls
-    Data protection
-    Access management
-    Cybersecurity frameworks
+This project aims to demonstrate my foundational understanding of:
+
+- Governance, Risk, and Compliance (GRC)
+  
+- Cybersecurity risk assessment
+  
+- Risk identification and prioritization
+
+- Security policies
+
+- Security controls
+
+- Data protection
+
+- Access management
+
+- Cybersecurity frameworks
 
 ### **Project Structure** 
 
@@ -40,9 +42,9 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
 
 *Risk Assessment* -  Identifies and evaluates cybersecurity risks based on likelihood and potential impact.
 
-*Security Policy* - Develops a security policy designed to address an identified organizational risk.
+*Policy Development* - Develops a security policy designed to address an identified organizational risk.
 
 
 ### Disclaimer
-This is a fictional educational project. The organization (CFS), systems, risks, and scenarios described in this repository are not based on confidential information from any real organization. It is created for educational and portfolio purposes only.
+This is a fictional educational project. The organization, systems, risks, and scenarios described in this repository are fictional and were created solely for educational and portfolio purposes.
 
