@@ -14,7 +14,7 @@ This project demonstrates foundational Governance, Risk, and Compliance (GRC) co
   
   Location  → Barbados
   
-  Employees  → 50
+  Employees  → Approximately 50
   
   Customers  → Individuals and businesses
   
